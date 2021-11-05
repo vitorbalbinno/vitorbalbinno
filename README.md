@@ -1,7 +1,7 @@
 ##Olá! Eu sou o Vitor Balbino
 
-- 🔭 Hoje estou em busca de um estágio em front-end
-- 🌱 Estudando JavaScript
+- 🔭 Hoje estou em busca de um estágio em back-end
+- 🌱 Estudando Python
 
 <div>
   <a href="https://github.com/vitorbalbinno">
