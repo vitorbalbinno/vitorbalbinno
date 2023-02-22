@@ -1,7 +1,7 @@
 ##Olá! Eu sou o Vitor Balbino
 
-- 🔭 Hoje estou em busca de um estágio em back-end
-- 🌱 Estudando Python
+- 🔭 Analista de dados
+- 🌱 Estudando Python, PowerBI, Tableau
 
 <div>
   <a href="https://github.com/vitorbalbinno">
