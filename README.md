@@ -1,7 +1,7 @@
-##Olá! Eu sou o Vitor Balbino
+Olá! Eu sou o Vitor Balbino
 
-- 🔭 Analista de dados
-- 🌱 Estudando Python, PowerBI, Tableau
+- 🔭 Analista de dados / Analista de automações
+- 🌱 Programador Python com Selenium, estudando Java
 
 <div>
   <a href="https://github.com/vitorbalbinno">
